@@ -14,8 +14,8 @@ Buat Dictionary daftar kontak
 ![img.1](gambar/2022-11-28.png)
 ![img.2](gambar/2022-11-28%20(1).png)
 
-# Output 
-![img.3](gambar/2022-11-28%20(2).png
+# Output Program
+![img.3](gambar/2022-11-28%20(2).png)
 
 # TUGAS PRAKTIKUM
 Buat program sederhana yang akan menampilkan daftar nilai
@@ -39,3 +39,14 @@ mahasiswa, dengan ketentuan
 7. Membuat program untuk melihat atau menampilkan data.
 8. Membuat program untuk menghentikan perulangan.
 9. Membuat program untuk apabila memilih pilihan yang tidak ada di menu.
+ 
+# Otput progrmam 
+1. tambah data + lihat data
+
+2. Ubah data + Lihat data 
+
+3. Cari data 
+
+4. Hapus data + lihat data 
+
+5. Keluar 
