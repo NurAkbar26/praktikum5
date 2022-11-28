@@ -9,3 +9,5 @@ Buat Dictionary daftar kontak
 - Tampilkan semua Nomor
 - Tampilkan daftar Nama dan nomornya
 - Hapus kontak Dina.
+![img.1](2022-11-20.png)
+![img.2](2022-11-20 (2).png)
