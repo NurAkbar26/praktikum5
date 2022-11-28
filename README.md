@@ -42,11 +42,12 @@ mahasiswa, dengan ketentuan
  
 # Otput progrmam 
 1. tambah data + lihat data
-
+![img.7](gambar/7.png)
 2. Ubah data + Lihat data 
-
+![img.8](gambar/8.png)
 3. Cari data 
-
+![img.9](gambar/9.png)
 4. Hapus data + lihat data 
+![img.10](gambar/10.png)
 
-5. Keluar 
+
